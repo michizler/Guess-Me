@@ -2,11 +2,15 @@ This is a user-friendly _Guessing Game_ created using Python. Almost like *Hangm
 can select a difficulty and lose lives if a guess is wrong. In event all lives is lost,
 it's gameover.
 
-_Levels_
+Levels:
 *Easy
+
 Medium
+
 Hard
+
 Legend
+
 Wizard*
 
 Try it out! Most don't get past the _Legend_ level. As usual, my contact (brightuzosike@gmail.com)
